@@ -1,0 +1,5 @@
+Z:\targilim\TCP\lab4b\lab4bV2\bin\Debug\lab4bV2.exe.config
+Z:\targilim\TCP\lab4b\lab4bV2\bin\Debug\lab4bV2.exe
+Z:\targilim\TCP\lab4b\lab4bV2\bin\Debug\lab4bV2.pdb
+Z:\targilim\TCP\lab4b\lab4bV2\obj\Debug\lab4bV2.exe
+Z:\targilim\TCP\lab4b\lab4bV2\obj\Debug\lab4bV2.pdb
